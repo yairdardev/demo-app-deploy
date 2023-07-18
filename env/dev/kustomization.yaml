@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/yairdardev/demo-app
-  newTag: latest
+  newTag: latestdd40055134815b266a6bc2fc3e30f8c2fa622012
